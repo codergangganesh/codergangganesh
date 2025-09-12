@@ -14,7 +14,6 @@ Artificial intelligence and data science student
 - ⚡ Fun fact: coder attracts codies.
 
 
-```
 
 
 ## Github Status
