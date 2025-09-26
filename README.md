@@ -2,8 +2,7 @@
 ## Hi there 👋 It's me Mannam Ganeshbabu
 
 Artificial intelligence and data science student
-<img align="right" width="470" height="290" src="https://media.tenor.com/dzock0eDxV0AAAAM/gofiber-really.gif">
-- 🔭 Here's my [portfolio](https://hareesh.web.app/)                                                 
+<img align="right" width="470" height="290" src="https://media.tenor.com/dzock0eDxV0AAAAM/gofiber-really.gif">                                               
 - 🌱 I’m currently learning DATA SCIENCE
 - 👯 I’m looking to collaborate on AI&DS
 - 🤔 I’m looking for help with Placements.
@@ -16,13 +15,7 @@ Artificial intelligence and data science student
 
 
 
-## Github Status
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codergangganesh" alt="codergangganesh" /></a> 
-</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codergangganesh&show_icons=true&locale=en&layout=compact" alt="codergangganesh" /> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codergangganesh&show_icons=true&locale=en" alt="codergangganesh" /></p>
 
 
 
@@ -39,10 +32,9 @@ Artificial intelligence and data science student
 
 ## LeetCode Status
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/711523bad303?theme=dark&font=Marcellus&ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/SmitPoIk?theme=dark&font=Rammetto%203D&ext=heatmap)
 
-## Contribution Graph
 
-[![Mannam ganeshbabu github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codergangganesh&bg_color=d1d4ff&color=121211&line=9e4c61&point=18f727&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
