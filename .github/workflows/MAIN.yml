@@ -1,0 +1,89 @@
+# .github/workflows/contribution-setup.yml
+name: GitHub Contribution Setup
+
+on:
+  # Run daily and also manually
+  schedule:
+    - cron: "0 9 * * *"
+  workflow_dispatch:
+
+jobs:
+  automate-contribution:
+    name: Auto Commit (Daily Update)
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Update "Last Updated" info
+        run: |
+          echo "## 🕓 Last Updated: $(date)" > LAST_UPDATED.md
+
+      - name: Commit & Push Changes
+        run: |
+          git config --global user.name "codergangganesh[bot]"
+          git config --global user.email "codergangganesh@users.noreply.github.com"
+          git add LAST_UPDATED.md
+          git commit -m "🤖 Automated daily update by GitHub Actions"
+          git push
+
+  track-contributors:
+    name: Track Contributors (All Contributors)
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Add Contributors
+        uses: all-contributors/all-contributors-action@v2
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "🧑‍💻 Update contributors [skip ci]"
+          contributors: |
+            [
+              {
+                "login": "codergangganesh",
+                "name": "Mannam Ganesh Babu",
+                "avatar_url": "https://github.com/codergangganesh.png",
+                "profile": "https://github.com/codergangganesh",
+                "contributions": ["code", "doc", "maintenance"]
+              }
+            ]
+
+  contribution-guidelines:
+    name: Generate Contribution Guidelines
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Create CONTRIBUTING.yaml
+        run: |
+          mkdir -p .github
+          cat << 'EOF' > .github/CONTRIBUTING.yaml
+          guidelines:
+            description: Contribution rules for this project
+            steps:
+              - Fork the repository
+              - Create a feature branch (git checkout -b feature-name)
+              - Commit changes with meaningful messages
+              - Push your branch and open a Pull Request
+            rules:
+              - Follow project coding style
+              - Write clear commit messages
+              - Keep PRs focused and small
+              - Be respectful in discussions
+          contact:
+            maintainer: "codergangganesh"
+            github: "https://github.com/codergangganesh"
+            email: "codergangganesh@users.noreply.github.com"
+          EOF
+
+      - name: Commit Guidelines
+        run: |
+          git config --global user.name "codergangganesh[bot]"
+          git config --global user.email "codergangganesh@users.noreply.github.com"
+          git add .github/CONTRIBUTING.yaml
+          git commit -m "📝 Added/updated CONTRIBUTING guidelines"
+          git push
