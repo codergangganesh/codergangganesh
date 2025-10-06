@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B474860234343434B,50:8A2BGH236E2,100:DAA520&height=280&section=header&text=MANNAM%20GANESH%20BABU&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=I%20write%20code%20that%20even%20my%20future%20self%20would%20debug%20with%20a%20smile%20😎💻&descAlignY=56&descSize=22&width=1400" alt="Header" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+Problem+Solver;Turning+coffee+into+code+since+2024;Building+scalable+systems+%26+cool+projects;Open+to+opportunities+%26+collaborations)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=700&lines=Full+Stack+AI+Developer;Seeking+Innovative+Opportunities;Problem+Solver+%7C+Solution+Architect;Let%27s+Connect+%26+Collaborate)](https://git.io/typing-svg)
 
 <br>
 
@@ -18,42 +18,43 @@
 <br>
 
 
-## Who Am I?
-</div>
+## ✨ My Manifesto
 
 <table align="center">
 <tr>
 <td>
 
-```javascript
-const Mannam Ganesh Babu = [
-    location: "Coimbatore, Tamil Nadu, India",
-    education: "AI & Data Science Engineering",
-    institution: "Kalaignar Karunanidhi Institute of Technology",
-    
-    passions: [
-        "Building full-stack applications",
-        "Solving algorithmic puzzles",
-        "Creating interactive experiences",
-        "Breaking production (just kidding... mostly)"
-    ],
-    
-    currentlyExploring: {
-        cloud: "AWS Services & Architecture",
-        backend: "Microservices & System Design",
-        competitive: "DSA Problems"
-    },
-    
-    achievements: {
-        Paper Presentations: [
-            "1st Place - Paper Pesentation at SRIET Engineering college , Athipalayam",
-        ]
-    },
-    
-    funFact: "I write more console.logs than actual code 🤫"
-};
+## 🌟 Professional Profile
 
-```
+* **📍 Location:** **Coimbatore, Tamil Nadu, India**
+* **🎓 Education:** **B.Tech, AI & Data Science Engineering**
+* **🏢 Institution:** Kalaignar Karunanidhi Institute of Technology
+
+---
+
+### Core Expertise & Interests
+
+* **💻 Core Focus:** **AI, Data Science, & Full-Stack Development**
+* **💡 Key Interests:**
+    * Architecting and building robust **full-stack applications**.
+    * Enhancing logical skills through **algorithmic problem solving**.
+    * Designing and implementing responsive **interactive user experiences**.
+
+---
+
+### 🚀 Growth Track
+
+* **🔭 Currently Exploring:**
+    * **Cloud:** In-depth study of **AWS Services** and Cloud Architecture.
+    * **Backend:** Focus on **Microservices** and scalable System Design.
+    * **Competitive:** Mastering Advanced **DSA Problems** for competitive readiness.
+
+---
+
+### 🏆 Achievements & Fun Fact
+
+* **🏅 Key Achievement:** **1st Place** - Paper Presentation at SRIET Engineering College, Athipalayam.
+* **☕ Dev Insight:** I write more `console.logs` than actual code 🤫
 </td>
 </tr>
 </table>
@@ -150,86 +151,92 @@ const Mannam Ganesh Babu = [
 
 ## Featured Projects
 
-</div>
-
-> Building things that actually work (most of the time)
-
-<br>
-
-<table>
-<tr>
-  
-<td width="50%">
-<h3 align="center">AI FIESTA</h3>
 <div align="center">
-<a href="https://github.com/codergangganesh/LLM_Comparision_Platform" target="_blank">
-<img src="https://img.shields.io/badge/Code-667eea?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/>
-</a>
-  <a href="" target="_blank">
-  <img src="https://img.shields.io/badge/Live-667eea?style=for-the-badge&logo=rocket&logoColor=white" alt="Demo"/>
-</a>
-<br><br>
-<p><strong>Next.js • Supabase • NextAuth</strong></p>
-<br>
-<p>An AI Platform that creates an multi models in a single platforms to get better prompts across all the LLM models over the internet .</p>
-</div>
-</td>
+  <blockquote>
+    <p>Building things that actually work (most of the time)</p>
+  </blockquote>
+  <br>
 
-<td width="50%">
-<h3 align="center">LEE AI BOT</h3>
-<div align="center">
-<a href="https://github.com/codergangganesh/Lee-AI-Bot" target="_blank">
-<img src="https://img.shields.io/badge/Code-764ba2?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/>
-</a>
-  <a href="https://codergangganesh.github.io/Lee-AI-Bot/" target="_blank">
-  <img src="https://img.shields.io/badge/Live-667eea?style=for-the-badge&logo=rocket&logoColor=white" alt="Demo"/>
-</a>
-<br>
-<p><strong>HTML • CSS • JS</strong></p>
-<br>
-<p>A Personal AI Assistant Bot: An intelligent voice-enabled assistant designed to help users manage and automate daily tasks efficiently..</p>
-</div>
-</td>
-</tr>
-</table>
+  <table width="100%" border="0" cellpadding="10" cellspacing="0">
+    <tr valign="top">
+      <td width="50%" style="padding: 0;">
+        <div style="background: linear-gradient(to right, #2c3e50, #4a6a7e); padding: 20px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+          <h3 align="center" style="color: #E0E0E0;">AI FIESTA</h3>
+          <div align="center">
+            <a href="https://github.com/codergangganesh/LLM_Comparision_Platform" target="_blank">
+              <img src="https://img.shields.io/badge/Code-667eea?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/>
+            </a>
+            <a href="" target="_blank">
+              <img src="https://img.shields.io/badge/Live-667eea?style=for-the-badge&logo=rocket&logoColor=white" alt="Demo"/>
+            </a>
+            <br><br>
+            <p style="color: #F0F0F0;"><strong>Next.js • Supabase • NextAuth</strong></p>
+            <br>
+            <p style="color: #F0F0F0;">An AI Platform that creates multiple models in a single platform to get better prompts across all the LLM models over the internet.</p>
+          </div>
+        </div>
+      </td>
+      <td width="50%" style="padding: 0;">
+        <div style="background: linear-gradient(to right, #2c3e50, #4a6a7e); padding: 20px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+          <h3 align="center" style="color: #E0E0E0;">LEE AI BOT</h3>
+          <div align="center">
+            <a href="https://github.com/codergangganesh/Lee-AI-Bot" target="_blank">
+              <img src="https://img.shields.io/badge/Code-764ba2?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/>
+            </a>
+            <a href="https://codergangganesh.github.io/Lee-AI-Bot/" target="_blank">
+              <img src="https://img.shields.io/badge/Live-667eea?style=for-the-badge&logo=rocket&logoColor=white" alt="Demo"/>
+            </a>
+            <br>
+            <p style="color: #F0F0F0;"><strong>HTML • CSS • JS</strong></p>
+            <br>
+            <p style="color: #F0F0F0;">A Personal AI Assistant Bot: An intelligent voice-enabled assistant designed to help users manage and automate daily tasks efficiently.</p>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </table>
 
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Student Chat Bot</h3>
-<div align="center">
-<a href="https://github.com/codergangganesh/Student_Chat_Bot" target="_blank">
-<img src="https://img.shields.io/badge/Code-f093fb?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/>
-</a>
-<a href="https://codergangganesh.github.io/Student_Chat_Bot/" target="_blank">
-<img src="https://img.shields.io/badge/Live-667eea?style=for-the-badge&logo=rocket&logoColor=white" alt="Demo"/>
-</a>
-<br><br>
-<p><strong>HTML • CSS • JS</strong></p>
-<br>
-<p>“An AI-powered chatbot that assists students with learning, tasks, and quick information retrieval.”</p>
-</div>
-</td>
+  <br>
 
-  
-<td width="50%">
-<h3 align="center">Parivahan</h3>
-<div align="center">
-<a href="https://github.com/codergangganesh/Vahan" target="_blank">
-<img src="https://img.shields.io/badge/Code-764ba2?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/>
-</a>
-<a href="https://vahan-seven.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Live-667eea?style=for-the-badge&logo=rocket&logoColor=white" alt="Demo"/>
-</a>
-<br><br>
-<p><strong>ReactVite • Supabase • VScode</strong></p>
-<br>
-<p>“A platform that lets users easily sell bikes and book test rides in a hassle-free way.”</p>
+  <table width="100%" border="0" cellpadding="10" cellspacing="0">
+    <tr valign="top">
+      <td width="50%" style="padding: 0;">
+        <div style="background: linear-gradient(to right, #2c3e50, #4a6a7e); padding: 20px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+          <h3 align="center" style="color: #E0E0E0;">Student Chat Bot</h3>
+          <div align="center">
+            <a href="https://github.com/codergangganesh/Student_Chat_Bot" target="_blank">
+              <img src="https://img.shields.io/badge/Code-f093fb?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/>
+            </a>
+            <a href="https://codergangganesh.github.io/Student_Chat_Bot/" target="_blank">
+              <img src="https://img.shields.io/badge/Live-667eea?style=for-the-badge&logo=rocket&logoColor=white" alt="Demo"/>
+            </a>
+            <br><br>
+            <p style="color: #F0F0F0;"><strong>HTML • CSS • JS</strong></p>
+            <br>
+            <p style="color: #F0F0F0;">“An AI-powered chatbot that assists students with learning, tasks, and quick information retrieval.”</p>
+          </div>
+        </div>
+      </td>
+      <td width="50%" style="padding: 0;">
+        <div style="background: linear-gradient(to right, #2c3e50, #4a6a7e); padding: 20px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+          <h3 align="center" style="color: #E0E0E0;">Parivahan</h3>
+          <div align="center">
+            <a href="https://github.com/codergangganesh/Vahan" target="_blank">
+              <img src="https://img.shields.io/badge/Code-764ba2?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/>
+            </a>
+            <a href="https://vahan-seven.vercel.app/" target="_blank">
+              <img src="https://img.shields.io/badge/Live-667eea?style=for-the-badge&logo=rocket&logoColor=white" alt="Demo"/>
+            </a>
+            <br><br>
+            <p style="color: #F0F0F0;"><strong>ReactVite • Supabase • VScode</strong></p>
+            <br>
+            <p style="color: #F0F0F0;">“A platform that lets users easily sell bikes and book test rides in a hassle-free way.”</p>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
-</td>
-</tr>
-</table>
-
 <br>
 
 <div align="center">
@@ -256,7 +263,7 @@ const Mannam Ganesh Babu = [
 <br>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codergangganesh&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=codergangganesh&theme=react-dark&hide_border=true&bg_color=0d1117&color=667eea&line=764ba2&point=f093fb&area=true&area_color=667eea" alt="Contribution Graph"/>
+<img width="49%" height="10000em" src="https://github-readme-activity-graph.vercel.app/graph?username=codergangganesh&theme=react-dark&hide_border=true&bg_color=0d1117&color=667eea&line=764ba2&point=f093fb&area=true&area_color=667eea" alt="Contribution Graph"/>
 
 <br>
 
