@@ -1,121 +1,388 @@
-<div align="left">
-
-# 👋 Hello, I'm Mannam Ganeshbabu  
-**AI & Data Science Enthusiast | Problem Solver | Tech Enthusiast**
-
-[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mannam-ganeshbabu-5a19ab291/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/SmitPoIk/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codergangganesh)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-
-<img align="right" width="300" src="https://media.tenor.com/dzock0eDxV0AAAAM/gofiber-really.gif" alt="Coding Gif">
-
-</div>
-
-
-
-## 🚀 About Me
-
-I'm a passionate **AI & Data Science** student with a strong foundation in programming, data analysis, and machine learning. I love turning complex problems into simple, beautiful, and intuitive solutions. When I'm not coding, you'll find me exploring new technologies, contributing to open-source projects, or solving problems on LeetCode.
-
----
-
-
-
-
-## 💻 Technical Skills
-
-**Programming Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Data Science & Analytics**
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-**Tools & Technologies**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
----
-
-## 📊 GitHub Analytics
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codergangganesh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codergangganesh&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codergangganesh&theme=tokyonight" alt="GitHub Streak"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B474860234343434B,50:8A2BGH236E2,100:DAA520&height=280&section=header&text=MANNAM%20GANESH%20BABU&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=I%20write%20code%20that%20even%20my%20future%20self%20would%20debug%20with%20a%20smile%20😎💻&descAlignY=56&descSize=22&width=1400" alt="Header" width="100%"/>
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+Problem+Solver;Turning+coffee+into+code+since+2024;Building+scalable+systems+%26+cool+projects;Open+to+opportunities+%26+collaborations)](https://git.io/typing-svg)
 
-## 🏆 Achievements
+<br>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=codergangganesh&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
-</div>
+### AI & Data Science Engineering | Kalaignar Karunanidhi Institute of Technology
 
----
 
-## 📈 LeetCode Progress
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/SmitPoIk?theme=dark&font=Source%20Code%20Pro&ext=heatmap" alt="LeetCode Stats"/>
-</div>
-
----
-
-## 🔥 GitHub Activity
-<p >
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codergangganesh&bg_color=0d1117&color=ff79c6&line=8be9fd&point=50fa7b&area=true&hide_border=false" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/mannam-ganeshbabu-5a19ab291/"><img src="https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0b14" height="28"/></a>
+  <a href="https://leetcode.com/SmitPoIk/"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&labelColor=0a0b14" height="28"/></a>
+  <a href="https://github.com/codergangganesh"><img src="https://img.shields.io/badge/GITHUB-181717.svg?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0b14" height="28"/></a>
+  <a href="mailto:mannamganeshbabu8@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0b14" height="28"/></a>
 </p>
+<br>
+
+
+## Who Am I?
+</div>
+
+<table align="center">
+<tr>
+<td>
+
+```javascript
+const Mannam Ganesh Babu = [
+    location: "Coimbatore, Tamil Nadu, India",
+    education: "AI & Data Science Engineering",
+    institution: "Kalaignar Karunanidhi Institute of Technology",
+    
+    passions: [
+        "Building full-stack applications",
+        "Solving algorithmic puzzles",
+        "Creating interactive experiences",
+        "Breaking production (just kidding... mostly)"
+    ],
+    
+    currentlyExploring: {
+        cloud: "AWS Services & Architecture",
+        backend: "Microservices & System Design",
+        competitive: "DSA Problems"
+    },
+    
+    achievements: {
+        Paper Presentations: [
+            "1st Place - Paper Pesentation at SRIET Engineering college , Athipalayam",
+        ]
+    },
+    
+    funFact: "I write more console.logs than actual code 🤫"
+};
+
+```
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+
+<div align="center">
+  <a href="https://github.com/user-attachments/assets/1f56de35-9477-4a30-aac1-6f0603a3045e">
+    <img src="https://github.com/user-attachments/assets/1f56de35-9477-4a30-aac1-6f0603a3045e" width="350" height="700" alt="Profile Card" title="Profile Card">
+  </a><a href="https://github.com/user-attachments/assets/5563f7c2-5ed7-4d55-aec3-c7f2fa9d3be6">
+    <img src="https://github.com/user-attachments/assets/5563f7c2-5ed7-4d55-aec3-c7f2fa9d3be6" width="350" height="700" alt="Dev Card" title="Dev Card">
+  </a>
+</div>
+
+## Tech Arsenal
+
+<br>
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+<br>Python
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+<br>JavaScript
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="C++" />
+<br>TypeScript
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+<br>React
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+<br>Next.js
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+<br>Tailwind
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+<br>Node.js
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+<br>Express
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+<br>MongoDB
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+<br>PostgreSQL
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
+<br>Firebase
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+<br>Redis
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+<br>Git
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+<br>Docker
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
+<br>Vite
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+<br>AWS
+</td>
+</tr>
+</table>
+
+<br>
+
+## Featured Projects
+
+</div>
+
+> Building things that actually work (most of the time)
+
+<br>
+
+<table>
+<tr>
+  
+<td width="50%">
+<h3 align="center">AI FIESTA</h3>
+<div align="center">
+<a href="https://github.com/codergangganesh/LLM_Comparision_Platform" target="_blank">
+<img src="https://img.shields.io/badge/Code-667eea?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/>
+</a>
+  <a href="" target="_blank">
+  <img src="https://img.shields.io/badge/Live-667eea?style=for-the-badge&logo=rocket&logoColor=white" alt="Demo"/>
+</a>
+<br><br>
+<p><strong>Next.js • Supabase • NextAuth</strong></p>
+<br>
+<p>An AI Platform that creates an multi models in a single platforms to get better prompts across all the LLM models over the internet .</p>
+</div>
+</td>
+
+<td width="50%">
+<h3 align="center">LEE AI BOT</h3>
+<div align="center">
+<a href="https://github.com/codergangganesh/Lee-AI-Bot" target="_blank">
+<img src="https://img.shields.io/badge/Code-764ba2?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/>
+</a>
+  <a href="https://codergangganesh.github.io/Lee-AI-Bot/" target="_blank">
+  <img src="https://img.shields.io/badge/Live-667eea?style=for-the-badge&logo=rocket&logoColor=white" alt="Demo"/>
+</a>
+<br>
+<p><strong>HTML • CSS • JS</strong></p>
+<br>
+<p>A Personal AI Assistant Bot: An intelligent voice-enabled assistant designed to help users manage and automate daily tasks efficiently..</p>
+</div>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Student Chat Bot</h3>
+<div align="center">
+<a href="https://github.com/codergangganesh/Student_Chat_Bot" target="_blank">
+<img src="https://img.shields.io/badge/Code-f093fb?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/>
+</a>
+<a href="https://codergangganesh.github.io/Student_Chat_Bot/" target="_blank">
+<img src="https://img.shields.io/badge/Live-667eea?style=for-the-badge&logo=rocket&logoColor=white" alt="Demo"/>
+</a>
+<br><br>
+<p><strong>HTML • CSS • JS</strong></p>
+<br>
+<p>“An AI-powered chatbot that assists students with learning, tasks, and quick information retrieval.”</p>
+</div>
+</td>
+
+  
+<td width="50%">
+<h3 align="center">Parivahan</h3>
+<div align="center">
+<a href="https://github.com/codergangganesh/Vahan" target="_blank">
+<img src="https://img.shields.io/badge/Code-764ba2?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/>
+</a>
+<a href="https://vahan-seven.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Live-667eea?style=for-the-badge&logo=rocket&logoColor=white" alt="Demo"/>
+</a>
+<br><br>
+<p><strong>ReactVite • Supabase • VScode</strong></p>
+<br>
+<p>“A platform that lets users easily sell bikes and book test rides in a hassle-free way.”</p>
+</div>
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+### More Cool Stuff
+
+<br>
+
+| Project | What It Does | Links |
+|---------|-------------|-------|
+| *QUIZY* | A Basic quiz application where user can answer the question and get the points | [Code](https://github.com/codergangganesh/QUIZY) |
+| *ToDO* | A Todo Application for desktop using Maven application | [Code](https://github.com/codergangganesh/Todo_Maven-Application) |
+| *Expense Tracker* | Our Personal Expense Tracker | [Code](https://github.com/codergangganesh/ExpenseTrackerApplication) |
+
+<br>
+
+## GitHub Stats
+
+<br>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=codergangganesh&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=f093fb&text_color=c9d1d9&include_all_commits=true&count_private=true&ring_color=764ba2" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=codergangganesh&theme=radical&hide_border=true&background=0d1117&ring=667eea&fire=f093fb&currStreakLabel=c9d1d9&stroke=764ba2" alt="GitHub Streak"/>
+
+<br>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codergangganesh&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=codergangganesh&theme=react-dark&hide_border=true&bg_color=0d1117&color=667eea&line=764ba2&point=f093fb&area=true&area_color=667eea" alt="Contribution Graph"/>
+
+<br>
+
+## Competitive Programming
+
+<br>
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/dynamic/json?url=https://codechef-api.vercel.app/codergangganesh&query=currentRating&label=Rating&color=764ba2&style=for-the-badge&logo=codechef&logoColor=white" alt="Rating"/>
+<br><br><strong>CodeChef Rating</strong>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Stars-2★-f093fb?style=for-the-badge&logo=codechef&logoColor=white" alt="Stars"/>
+<br><br><strong>Achievement Level</strong>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Contests-44+-667eea?style=for-the-badge&logo=codechef&logoColor=white" alt="Contests"/>
+<br><br><strong>Contests Participated</strong>
+</td>
+</tr>
+</table>
+
+<br>
+
+Solving problems on multiple platforms because one wasn't enough. Strengthening algorithmic thinking one WA at a time (if you know, you know).
+
+<br>
+
+[![CodeChef](https://img.shields.io/badge/CodeChef-764ba2?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/ganeshbabu_54)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/SmitPoIk/)
+[![Codolio](https://img.shields.io/badge/Codolio-667eea?style=for-the-badge&logo=codio&logoColor=white)](https://codolio.com/profile/Mannam_Ganesh_babu)
+
+<br>
+
+
+## 🏆 Achievements & Recognition
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=codergangganesh&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&title=Stars,Commits,Repositories,PullRequest,Issues,Followers,MultiLanguage" width="100%" />
+
+### 🎯 LeetCode Progress
+
+<img src="https://leetcard.jacoblin.cool/SmitPoIk?theme=black&font=IBM%20Plex%20Mono&ext=heatmap" width="60%" alt="LeetCode Stats"/>
+
+</div>
 
 ---
-## 🐍 GitHub Contribution Snake  
+
+
+
+<!-- Activity Visualization -->
+<h2 align="center">🐍 CONTRIBUTION GRAPH</h2>
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codergangganesh/codergangganesh/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codergangganesh/codergangganesh/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Pawaaaann/codergangganesh/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/codergangganesh/codergangganesh/output/github-snake-dark.svg" />
 </picture>
 
+</div>
 
+<!-- Contact Section -->
+<h2 align="center">📡 CONNECT WITH ME</h2>
 
-## 📫 Get In Touch
+<div align="center">
 
-I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out!
+<table>
+<tr>
+<td align="center" width="25%">
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="60" alt="Email"/>
+<br><br>
+<strong> EMAIL</strong>
+<br><br>
+<a href="mailto:mannamganeshbabu8@gmail.com">mannamganeshbabu8@gmail.com</a>
+<br><br>
+</td>
+<td align="center" width="25%">
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60" alt="LinkedIn"/>
+<br><br>
+<strong> LINKEDIN</strong>
+<br><br>
+<a href="https://www.linkedin.com/in/mannam-ganeshbabu-5a19ab291/"> Network</a>
+<br><br>
+</td>
+<td align="center" width="25%">
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="60" alt="GitHub"/>
+<br><br>
+<strong> GITHUB</strong>
+<br><br>
+<a href="https://github.com/codergangganesh">@codergangganesh</a>
+<br><br>
+</td>
+<td align="center" width="25%">
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="60" alt="LeetCode"/>
+<br><br>
+<strong> LEETCODE</strong>
+<br><br>
+<a href="https://leetcode.com/SmitPoIk/">@SmitPoIk</a>
+<br><br>
+</td>
+</tr>
+</table>
 
-- 📧 Email: [mannamganeshbabu8@gmail.com](mailto:mannamganeshbabu8@gmail.com)
-- 💼 LinkedIn: [Mannam Ganeshbabu](https://www.linkedin.com/in/mannam-ganeshbabu-5a19ab291/)
-- 💻 GitHub: [@codergangganesh](https://github.com/codergangganesh)
-- 🧩 LeetCode: [@SmitPoIk](https://leetcode.com/SmitPoIk/)
+<br>
 
+![Profile Views](https://komarev.com/ghpvc/?username=codergangganesh&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=codergangganesh&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+
+
+
+*Built with caffeine and determination | Last updated: October 2025*
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667sljdfk34334eea,50:764ba2,100:f093fb&height=120&section=footer" alt="Footer" width="100%"/>
+
 </div>
-
-<div align="center">
-  
-### ⭐ From [codergangganesh](https://github.com/codergangganesh)
-
-*"The only way to do great work is to love what you do." - Steve Jobs*
-
-</div>
-  </a>
-</div>
-
-
-
