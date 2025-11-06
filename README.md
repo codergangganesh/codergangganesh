@@ -169,7 +169,7 @@
             <a href="https://github.com/codergangganesh/LLM_Comparision_Platform" target="_blank">
               <img src="https://img.shields.io/badge/Code-667eea?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/>
             </a>
-            <a href="" target="_blank">
+            <a href="https://aifiesta-yo33.onrender.com/chat" target="_blank">
               <img src="https://img.shields.io/badge/Live-667eea?style=for-the-badge&logo=rocket&logoColor=white" alt="Demo"/>
             </a>
             <br><br>
