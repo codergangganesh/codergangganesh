@@ -186,7 +186,7 @@
             <a href="https://github.com/codergangganesh/Lee-AI-Bot" target="_blank">
               <img src="https://img.shields.io/badge/Code-764ba2?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/>
             </a>
-            <a href="https://codergangganesh.github.io/Lee-AI-Bot/" target="_blank">
+            <a href="https://ai-bot-gules-five.vercel.app/" target="_blank">
               <img src="https://img.shields.io/badge/Live-667eea?style=for-the-badge&logo=rocket&logoColor=white" alt="Demo"/>
             </a>
             <br>
