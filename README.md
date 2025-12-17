@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B474860234343434B,50:8A2BGH236E2,100:DAA520&height=280&section=header&text=MANNAM%20GANESH%20BABU&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=I%20write%20code%20that%20even%20my%20future%20self%20would%20debug%20with%20a%20smile%20😎💻&descAlignY=56&descSize=22&width=1400" alt="Header" width="100%"/>
@@ -259,7 +260,6 @@
 ## GitHub Stats
 
 <br>
-
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=codergangganesh&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=f093fb&text_color=c9d1d9&include_all_commits=true&count_private=true&ring_color=764ba2" alt="GitHub Stats"/>
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=codergangganesh&theme=radical&hide_border=true&background=0d1117&ring=667eea&fire=f093fb&currStreakLabel=c9d1d9&stroke=764ba2" alt="GitHub Streak"/>
 
