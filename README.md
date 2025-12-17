@@ -306,9 +306,6 @@ Solving problems on multiple platforms because one wasn't enough. Strengthening 
 
 ## 🏆 Achievements & Recognition
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=codergangganesh&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&title=Stars,Commits,Repositories,PullRequest,Issues,Followers,MultiLanguage" width="100%" />
 
 ### 🎯 LeetCode Progress
 
