@@ -258,8 +258,23 @@
 <br>
 
 ## GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codergangganesh&show_icons=true&theme=radical&border_radius=10"/>
+</p>
+<p>
+  <img src="https://streak-stats.demolab.com?user=codergangganesh&theme=radical&border_radius=10"/>
+</p>
 
-<br>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codergangganesh&theme=radical&hide_border=true&area=true"/>
+</p>
+
+<p align="center">
+  <sub>⚡ Live GitHub data • Auto-updated • Trusted by recruiters</sub>
+</p>
+
+
+<!-- <br>
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=codergangganesh&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=f093fb&text_color=c9d1d9&include_all_commits=true&count_private=true&ring_color=764ba2" alt="GitHub Stats"/>
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=codergangganesh&theme=radical&hide_border=true&background=0d1117&ring=667eea&fire=f093fb&currStreakLabel=c9d1d9&stroke=764ba2" alt="GitHub Streak"/>
 
@@ -269,7 +284,7 @@
 <img width="49%" height="10000em" src="https://github-readme-activity-graph.vercel.app/graph?username=codergangganesh&theme=react-dark&hide_border=true&bg_color=0d1117&color=667eea&line=764ba2&point=f093fb&area=true&area_color=667eea" alt="Contribution Graph"/>
 
 <br>
-
+ -->
 ## Competitive Programming
 
 <br>
