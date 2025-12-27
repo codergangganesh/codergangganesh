@@ -401,7 +401,7 @@ Solving problems on multiple platforms because one wasn't enough. Strengthening 
 
 
 
-*Built with caffeine and determination | Last updated: October 2025*
+*Built with caffeine and determination | Last updated: December 2025*
 
 <br>
 
