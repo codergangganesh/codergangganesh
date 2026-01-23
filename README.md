@@ -1,5 +1,4 @@
 
-<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B474860234343434B,50:8A2BGH236E2,100:DAA520&height=280&section=header&text=MANNAM%20GANESH%20BABU&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=I%20write%20code%20that%20even%20my%20future%20self%20would%20debug%20with%20a%20smile%20😎💻&descAlignY=56&descSize=22&width=1400" alt="Header" width="100%"/>
 
@@ -261,15 +260,25 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=codergangganesh&show_icons=true&theme=radical&border_radius=10"/>
 </p>
-<p>
-  <img src="https://streak-stats.demolab.com?user=codergangganesh&theme=radical&border_radius=10"/>
-</p>
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codergangganesh&theme=radical&hide_border=true&area=true"/>
-</p>
+<div align="center">
 
-<p align="center">
+  
+
+  <a href="https://github.com/codergangganesh">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codergangganesh&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages">
+  </a>
+
+  <br>
+
+
+  <a href="https://github.com/codergangganesh">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=codergangganesh&theme=react-dark&bg_color=000000&hide_border=true&line=00FFFF&point=FFFFFF" alt="Contribution Graph" width="95%">
+  </a>
+
+</div>
+<div align="center">
   <sub>⚡ Live GitHub data • Auto-updated • Trusted by recruiters</sub>
 </p>
 
